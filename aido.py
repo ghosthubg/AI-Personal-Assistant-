@@ -399,7 +399,7 @@ def send_email(sender, password, recipient, subject, body):
 
 # Example usage
 sender_email = "syloncube837@gmail.com"
-sender_password = "sylogylo@03"
+sender_password = ""
 
 speak("Please provide the recipient's email address.")
 recipient_email = get_user_response()
